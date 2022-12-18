@@ -1,0 +1,12 @@
+{
+    "a_username": {
+        "calendar": "my basic calendar name",
+        "status": "None",
+        "password": "an app password generated in nextcloud settings"
+    },
+    "another_username": {
+        "calendar": "another calendar name",
+        "status": "None",
+        "password": "an app password generated in nextcloud settings"
+    }
+}
